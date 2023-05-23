@@ -1,0 +1,43 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+  
+  }
+  
+  nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #ff0000;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    margin: left;
+  border-top: 50%;
+  
+  }
+
+  
+  nav a:hover {
+    background-color: rgb(181, 181, 181);
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gainsboro;
+    color: gainsboro;
+
+  }
+  
+  
+  
+
+
